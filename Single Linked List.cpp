@@ -1,3 +1,7 @@
+//M. Iqbal Nasmi Makarim
+//G1A021094
+//Informatika B 21
+
 #include <iostream>
 
 using namespace std;
